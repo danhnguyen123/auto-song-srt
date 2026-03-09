@@ -1,3 +1,9 @@
+Download python:
+
+https://www.python.org/downloads/windows/
+
+https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe
+
 Install:
 
 ```bash
